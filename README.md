@@ -10,7 +10,7 @@
 ## 🔍 By Domain
 
 ### Kubernetes Governance
-- [Financial Kyverno Toolkit](https://github.com/christian-dussol-cloud-native/kyverno) - Policies for regulated environments
+- [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) - Policies for regulated environments
 
 ### Future Topics
 - Observability in Financial Services
