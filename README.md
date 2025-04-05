@@ -22,8 +22,6 @@
 
 ## 👤 About
 
-https://github.com/ChristianDussol/christiandussol
-
 This collection is maintained by [Christian Dussol](https://github.com/ChristianDussol), Engineering Manager at Finastra, sharing practical knowledge on cloud-native technologies with a specific focus on financial services applications. The goal is to provide educational resources that bridge the gap between cloud-native technologies and regulated industry requirements.
 
 ## 📜 License
