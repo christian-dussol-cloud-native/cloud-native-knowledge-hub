@@ -14,7 +14,6 @@
 
 ### Future Topics
 - Observability in Financial Services
-- Cloud Native FinOps Practices
 
 ## 🌟 Featured Content
 
