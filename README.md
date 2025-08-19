@@ -6,7 +6,7 @@
 |------------|-------------|------------|
 | [Cloud Native Hub](https://github.com/christian-dussol-cloud-native/cloud-native-knowledge-hub) | This index repository (you are here) | Navigation, Overview |
 | [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) | Kyverno policies for compliance and security in financial environments | Kubernetes, Security, Compliance |
-| [Cloud Security](https://github.com/christian-dussol-cloud-native/cloud-security) | Cloud Security | 4C Security Model |
+| [Cloud Security](https://github.com/christian-dussol-cloud-native/cloud-security) | Cloud Security | 4C Security Model, API Security |
 
 ## 🔍 By Domain
 
@@ -19,6 +19,7 @@
 ## 🌟 Featured Content
 
 - [Kyverno: The Kubernetes Native Policy Engine](https://github.com/christian-dussol-cloud-native/kyverno/tree/main/carousel) - Comprehensive visual guide to Kyverno
+- [OWASP API Security Top 10](https://github.com/christian-dussol-cloud-native/cloud-security/tree/main/carousel) - Comprehensive visual guide to OWASP API Security 
 
 ## 👤 About
 
