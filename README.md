@@ -5,8 +5,8 @@
 | Repository | Description | Focus Areas |
 |------------|-------------|------------|
 | [Cloud Native Hub](https://github.com/christian-dussol-cloud-native/cloud-native-knowledge-hub) | This index repository (you are here) | Navigation, Overview |
+| [Crossplane](https://github.com/christian-dussol-cloud-native/crossplane) | Unified control plane for multi-cloud resource management from Kubernetes | Educational resources |
 | [Knative](https://github.com/christian-dussol-cloud-native/knative) | Vendor neutral serverless platform | Educational resources |
-| [Knative](https://github.com/christian-dussol-cloud-native/crossplane) | Unified control plane for multi-cloud resource management from Kubernetes | Educational resources |
 | [Kubernetes](https://github.com/christian-dussol-cloud-native/kubernetes) | Kubernetes | Exploration, studies, educational resources |
 | [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) | Kyverno policies for compliance and security in financial environments | Kubernetes, Security, Compliance |
 | [Cloud Security](https://github.com/christian-dussol-cloud-native/cloud-security) | Cloud Security | 4C Security Model, API Security |
