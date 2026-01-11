@@ -19,7 +19,7 @@ The CNCF Project Focus is a learning series where I explore Cloud Native Computi
 
 ---
 
-## 🚀 Published Episodes
+## Published Episodes
 
 | Episode | Project | GitHub Repository | Medium Article | Published | Focus |
 |---------|---------|-------------------|----------------|-----------|-------|
