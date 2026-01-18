@@ -6,6 +6,7 @@
 |------------|-------------|------------|
 | [Cloud Native Hub](https://github.com/christian-dussol-cloud-native/cloud-native-knowledge-hub) | This index repository (you are here) | Navigation, Overview |
 | [CNCF Project Focus Series](https://github.com/christian-dussol-cloud-native/cloud-native-knowledge-hub/blob/main/CNCF-Project-Focus-Series.md) | CNCF Projects exploration | Educational resources |
+| [Cilium](https://github.com/christian-dussol-cloud-native/cilium) | eBPF-based networking, security and observability solution for Kubernetes | Educational resources |
 | [Crossplane](https://github.com/christian-dussol-cloud-native/crossplane) | Unified control plane for multi-cloud resource management from Kubernetes | Educational resources |
 | [Knative](https://github.com/christian-dussol-cloud-native/knative) | Vendor neutral serverless platform | Educational resources |
 | [Kubernetes](https://github.com/christian-dussol-cloud-native/kubernetes) | Kubernetes | Exploration, studies, educational resources |
