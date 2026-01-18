@@ -25,6 +25,7 @@ The CNCF Project Focus is a learning series where I explore Cloud Native Computi
 |---------|---------|-------------------|----------------|-----------|-------|
 | **#1** | **Knative** | [knative](https://github.com/christian-dussol-cloud-native/knative) | [Medium Article](https://medium.com/@christian.dussol/knative-stop-paying-for-idle-kubernetes-pods-ac5e6ec350fa) | Dec 2025 | Serverless, Cost Optimization, Auto-scaling |
 | **#2** | **Crossplane** | [crossplane](https://github.com/christian-dussol-cloud-native/crossplane) | [Medium Article](https://medium.com/@christian.dussol/from-terraform-to-crossplane-exploring-multi-cloud-infrastructure-management-7dd65f3a81c7) | Jan 2026 | Multi-cloud, IaC, Platform Engineering |
+| **#3** | **Cilium** | [cilium](https://github.com/christian-dussol-cloud-native/cilium) | | Jan 2026 | eBPF-based networking, security, and observability solution for Kubernetes |
 
 ---
 
@@ -53,6 +54,21 @@ From Terraform to Crossplane - exploring unified infrastructure management acros
 - Comparison: Terraform vs Crossplane
 - Provider, Managed Resource, Composition, XRD patterns
 - FinTech governance with Kyverno integration
+
+---
+
+### Episode #3: Cilium - eBPF-Powered Kubernetes Networking
+
+**Description:**
+Exploring Cilium CNI for high-performance networking with focus on security policies, observability and cost optimization in Financial Services.
+
+**Key Topics:**
+- eBPF fundamentals and kernel-level networking
+- NetworkPolicies: L3/L4/L7 security enforcement
+- Hubble observability without agents
+- Service mesh alternative (no sidecars)
+- Kyverno integration for Policy-as-Code governance
+- PCI-DSS compliant architecture patterns
 
 ---
 
