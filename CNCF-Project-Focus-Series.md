@@ -25,7 +25,7 @@ The CNCF Project Focus is a learning series where I explore Cloud Native Computi
 |---------|---------|-------------------|----------------|-----------|-------|
 | **#1** | **Knative** | [knative](https://github.com/christian-dussol-cloud-native/knative) | [Medium Article](https://medium.com/@christian.dussol/knative-stop-paying-for-idle-kubernetes-pods-ac5e6ec350fa) | Dec 2025 | Serverless, Cost Optimization, Auto-scaling |
 | **#2** | **Crossplane** | [crossplane](https://github.com/christian-dussol-cloud-native/crossplane) | [Medium Article](https://medium.com/@christian.dussol/from-terraform-to-crossplane-exploring-multi-cloud-infrastructure-management-7dd65f3a81c7) | Jan 2026 | Multi-cloud, IaC, Platform Engineering |
-| **#3** | **Cilium** | [cilium](https://github.com/christian-dussol-cloud-native/cilium) | | Jan 2026 | eBPF-based networking, security, and observability solution for Kubernetes |
+| **#3** | **Cilium** | [cilium](https://github.com/christian-dussol-cloud-native/cilium) | [Medium Article](https://medium.com/@christian.dussol/cilium-eliminating-the-hidden-network-overhead-in-kubernetes-cfa6ac10d084) | Jan 2026 | eBPF-based networking, security, and observability solution for Kubernetes |
 
 ---
 
