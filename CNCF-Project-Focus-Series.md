@@ -32,6 +32,14 @@ The CNCF Project Focus is a learning series where I explore Cloud Native Computi
 | **#3** | **Cilium** | [cilium](https://github.com/christian-dussol-cloud-native/cilium) | [Carousel](https://github.com/christian-dussol-cloud-native/cilium/blob/main/carousel/CNCF%20Project%20Focus%20%233%20-%20Cilium.pdf) | [Medium Article](https://medium.com/@christian.dussol/cilium-eliminating-the-hidden-network-overhead-in-kubernetes-cfa6ac10d084) | Jan 2026 | eBPF-based networking, security, and observability solution for Kubernetes |
 | **Arc #1 Synthesis** | **Arc Closure** | — | [Carousel](carousels/CNCF%20Project%20Focus%20-%20ARC%231%20infrastructure%20foundations.pdf) | [Medium Article](https://medium.com/aws-in-plain-english/disciplined-composition-building-cloud-native-infrastructure-that-scales-b5de85ab5893) | Feb 2026 | Disciplined Composition — synthesizing Knative, Crossplane & Cilium |
 
+### Arc #2 — Observability: Making Systems Legible
+
+> How do you make a distributed cloud-native system truly observable? This second arc explores CNCF projects that bring metrics, traces, and logs into a coherent observability stack — from data collection to visualization and alerting.
+
+| Episode | Project | GitHub Repository | Carousel | Medium Article | Published | Focus |
+|---------|---------|-------------------|----------|----------------|-----------|-------|
+| **#4** | **Prometheus** | [prometheus](https://github.com/christian-dussol-cloud-native/prometheus) | — | — | Feb 2026 | Metrics collection, alerting, and monitoring for cloud-native environments |
+
 ---
 
 ## 📋 Episode Details
@@ -89,6 +97,20 @@ This synthesis article closes the first arc of the series by drawing the connect
 - A framework for evaluating future CNCF projects through the same lens
 
 **Medium Article:** [Disciplined Composition — Building Cloud-Native Infrastructure That Scales](https://medium.com/aws-in-plain-english/disciplined-composition-building-cloud-native-infrastructure-that-scales-b5de85ab5893)
+
+---
+
+### Episode #4: Prometheus - Cloud-Native Monitoring & Alerting
+
+**Description:**
+Exploring Prometheus for metrics collection and alerting in Kubernetes environments, with focus on observability patterns and operational excellence in Financial Services.
+
+**Key Topics:**
+- Pull-based metrics collection model
+- PromQL query language fundamentals
+- Alerting rules and Alertmanager integration
+- Kubernetes-native service discovery
+- FinTech observability patterns: SLIs, SLOs, and error budgets
 
 ---
 
