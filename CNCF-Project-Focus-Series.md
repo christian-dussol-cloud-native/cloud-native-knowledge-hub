@@ -34,11 +34,11 @@ The CNCF Project Focus is a learning series where I explore Cloud Native Computi
 
 ### Arc #2 — Observability: Making Systems Legible
 
-> How do you make a distributed cloud-native system truly observable? This second arc explores CNCF projects that bring metrics, traces, and logs into a coherent observability stack — from data collection to visualization and alerting.
+> How do you make a distributed cloud-native system truly observable? This second arc explores CNCF projects that bring metrics, traces and logs into a coherent observability stack: from data collection to visualization and alerting.
 
 | Episode | Project | GitHub Repository | Carousel | Medium Article | Published | Focus |
 |---------|---------|-------------------|----------|----------------|-----------|-------|
-| **#4** | **Prometheus** | [prometheus](https://github.com/christian-dussol-cloud-native/prometheus) | — | — | Feb 2026 | Metrics collection, alerting, and monitoring for cloud-native environments |
+| **#4** | **Prometheus** | [prometheus](https://github.com/christian-dussol-cloud-native/prometheus) | — | — | Feb 2026 | Metrics collection, alerting and monitoring for cloud-native environments |
 
 ---
 
