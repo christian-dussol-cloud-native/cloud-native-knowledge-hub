@@ -9,6 +9,7 @@
 | [Cilium](https://github.com/christian-dussol-cloud-native/cilium) | eBPF-based networking, security and observability solution for Kubernetes | Educational resources |
 | [Crossplane](https://github.com/christian-dussol-cloud-native/crossplane) | Unified control plane for multi-cloud resource management from Kubernetes | Educational resources |
 | [Knative](https://github.com/christian-dussol-cloud-native/knative) | Vendor neutral serverless platform | Educational resources |
+| [Prometheus](https://github.com/christian-dussol-cloud-native/prometheus) | Metrics collection, alerting and monitoring for cloud-native environments | Educational resources |
 | [Kubernetes](https://github.com/christian-dussol-cloud-native/kubernetes) | Kubernetes | Exploration, studies, educational resources |
 | [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) | Kyverno policies for compliance and security in financial environments | Kubernetes, Security, Compliance |
 | [Cloud Security](https://github.com/christian-dussol-cloud-native/cloud-security) | Cloud Security | 4C Security Model, API Security |
@@ -18,8 +19,8 @@
 ### Kubernetes Governance
 - [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) - Policies for regulated environments
 
-### Future Topics
-- Observability in Financial Services
+### Observability
+- [Prometheus](https://github.com/christian-dussol-cloud-native/prometheus) - Metrics collection, alerting and monitoring
 
 ## 🌟 Featured Content
 
