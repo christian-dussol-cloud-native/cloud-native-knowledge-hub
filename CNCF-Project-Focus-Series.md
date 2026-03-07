@@ -38,7 +38,7 @@ The CNCF Project Focus is a learning series where I explore Cloud Native Computi
 
 | Episode | Project | GitHub Repository | Carousel | Medium Article | Published | Focus |
 |---------|---------|-------------------|----------|----------------|-----------|-------|
-| **#4** | **Prometheus** | [prometheus](https://github.com/christian-dussol-cloud-native/prometheus) | — | — | Feb 2026 | Metrics collection, alerting and monitoring for cloud-native environments |
+| **#4** | **Prometheus** | [prometheus](https://github.com/christian-dussol-cloud-native/prometheus) | [Carousel](https://github.com/christian-dussol-cloud-native/prometheus/blob/main/carousel/CNCF%20Project%20Focus%20%234%20-%20Prometheus.pdf) | [Medium Article](https://medium.com/@christian.dussol/prometheus-not-just-monitoring-the-foundation-of-every-cost-decision-youll-make-50ae3c2c0beb) | Feb 2026 | Metrics collection, alerting and monitoring for cloud-native environments |
 
 ---
 
