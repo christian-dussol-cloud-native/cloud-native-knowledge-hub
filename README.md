@@ -10,6 +10,7 @@
 | [Crossplane](https://github.com/christian-dussol-cloud-native/crossplane) | Unified control plane for multi-cloud resource management from Kubernetes | Educational resources |
 | [Knative](https://github.com/christian-dussol-cloud-native/knative) | Vendor neutral serverless platform | Educational resources |
 | [Prometheus](https://github.com/christian-dussol-cloud-native/prometheus) | Metrics collection, alerting and monitoring for cloud-native environments | Educational resources |
+| [OpenTelemetry](https://github.com/christian-dussol-cloud-native/opentelemetry) | Vendor-neutral observability framework for traces, metrics and logs | Educational resources |
 | [Kubernetes](https://github.com/christian-dussol-cloud-native/kubernetes) | Kubernetes | Exploration, studies, educational resources |
 | [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) | Kyverno policies for compliance and security in financial environments | Kubernetes, Security, Compliance |
 | [Cloud Security](https://github.com/christian-dussol-cloud-native/cloud-security) | Cloud Security | 4C Security Model, API Security |
@@ -21,6 +22,7 @@
 
 ### Observability
 - [Prometheus](https://github.com/christian-dussol-cloud-native/prometheus) - Metrics collection, alerting and monitoring
+- [OpenTelemetry](https://github.com/christian-dussol-cloud-native/opentelemetry) - Vendor-neutral observability framework for traces, metrics and logs
 
 ## 🌟 Featured Content
 
