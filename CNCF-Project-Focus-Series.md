@@ -39,6 +39,7 @@ The CNCF Project Focus is a learning series where I explore Cloud Native Computi
 | Episode | Project | GitHub Repository | Carousel | Medium Article | Published | Focus |
 |---------|---------|-------------------|----------|----------------|-----------|-------|
 | **#4** | **Prometheus** | [prometheus](https://github.com/christian-dussol-cloud-native/prometheus) | [Carousel](https://github.com/christian-dussol-cloud-native/prometheus/blob/main/carousel/CNCF%20Project%20Focus%20%234%20-%20Prometheus.pdf) | [Medium Article](https://medium.com/@christian.dussol/prometheus-not-just-monitoring-the-foundation-of-every-cost-decision-youll-make-50ae3c2c0beb) | Feb 2026 | Metrics collection, alerting and monitoring for cloud-native environments |
+| **#5** | **OpenTelemetry** | [opentelemetry](https://github.com/christian-dussol-cloud-native/opentelemetry) | [Carousel](https://github.com/christian-dussol-cloud-native/opentelemetry/blob/main/carousel/CNCF%20Project%20Focus%20%235%20-%20OpenTelemetry.pdf) | Coming soon | Mar 2026 | Vendor-neutral observability framework for traces, metrics and logs |
 
 ---
 
@@ -111,6 +112,21 @@ Exploring Prometheus for metrics collection and alerting in Kubernetes environme
 - Alerting rules and Alertmanager integration
 - Kubernetes-native service discovery
 - FinTech observability patterns: SLIs, SLOs, and error budgets
+
+---
+
+### Episode #5: OpenTelemetry - Vendor-Neutral Observability
+
+**Description:**
+Exploring OpenTelemetry for distributed tracing, metrics and logs in Kubernetes environments. Covers the full collector pipeline, zero-code auto-instrumentation, sampling strategies for cost optimization, and Kyverno-based governance to enforce observability standards from day one.
+
+**Key Topics:**
+- OpenTelemetry Collector deployment and pipeline configuration (receivers, processors, exporters)
+- Zero-code auto-instrumentation for Python and Java
+- Distributed tracing across multi-service architectures
+- Sampling strategies (head & tail) for cost optimization
+- Kyverno integration for Policy-as-Code observability governance
+- Integration with Jaeger (tracing), Prometheus (metrics) and Grafana (dashboards)
 
 ---
 
