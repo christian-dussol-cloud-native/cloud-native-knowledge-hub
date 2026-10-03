@@ -11,6 +11,7 @@
 | [Knative](https://github.com/christian-dussol-cloud-native/knative) | Vendor neutral serverless platform | Educational resources |
 | [Prometheus](https://github.com/christian-dussol-cloud-native/prometheus) | Metrics collection, alerting and monitoring for cloud-native environments | Educational resources |
 | [OpenTelemetry](https://github.com/christian-dussol-cloud-native/opentelemetry) | Vendor-neutral observability framework for traces, metrics and logs | Educational resources |
+| [Istio](https://github.com/christian-dussol-cloud-native/istio) | Service mesh for mTLS, identity-based authorization, traffic management and L7 metrics | Educational resources |
 | [Kubernetes](https://github.com/christian-dussol-cloud-native/kubernetes) | Kubernetes | Exploration, studies, educational resources |
 | [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) | Kyverno policies for compliance and security in financial environments | Kubernetes, Security, Compliance |
 | [Cloud Security](https://github.com/christian-dussol-cloud-native/cloud-security) | Cloud Security | 4C Security Model, API Security |
@@ -23,6 +24,7 @@
 ### Observability
 - [Prometheus](https://github.com/christian-dussol-cloud-native/prometheus) - Metrics collection, alerting and monitoring
 - [OpenTelemetry](https://github.com/christian-dussol-cloud-native/opentelemetry) - Vendor-neutral observability framework for traces, metrics and logs
+- [Istio](https://github.com/christian-dussol-cloud-native/istio) - Service mesh: mTLS, identity-based authorization, traffic management and L7 metrics
 
 ## 🌟 Featured Content
 

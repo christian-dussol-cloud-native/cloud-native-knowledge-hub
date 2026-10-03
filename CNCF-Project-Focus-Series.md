@@ -40,6 +40,7 @@ The CNCF Project Focus is a learning series where I explore Cloud Native Computi
 |---------|---------|-------------------|----------|----------------|-----------|-------|
 | **#4** | **Prometheus** | [prometheus](https://github.com/christian-dussol-cloud-native/prometheus) | [Carousel](https://github.com/christian-dussol-cloud-native/prometheus/blob/main/carousel/CNCF%20Project%20Focus%20%234%20-%20Prometheus.pdf) | [Medium Article](https://medium.com/@christian.dussol/prometheus-not-just-monitoring-the-foundation-of-every-cost-decision-youll-make-50ae3c2c0beb) | Feb 2026 | Metrics collection, alerting and monitoring for cloud-native environments |
 | **#5** | **OpenTelemetry** | [opentelemetry](https://github.com/christian-dussol-cloud-native/opentelemetry) | [Carousel](https://github.com/christian-dussol-cloud-native/opentelemetry/blob/main/carousel/CNCF%20Project%20Focus%20%235%20-%20OpenTelemetry.pdf) | [Medium Article](https://medium.com/@christian.dussol/opentelemetry-vendor-neutral-unified-observability-for-cloud-native-d8fccf4475e9) | Mar 2026 | Vendor-neutral observability framework for traces, metrics and logs |
+| **#6** | **Istio** | [istio](https://github.com/christian-dussol-cloud-native/istio) |  |  |  | Service mesh: mTLS, identity-based authorization, traffic management and L7 metrics |
 
 ---
 
@@ -127,6 +128,21 @@ Exploring OpenTelemetry for distributed tracing, metrics and logs in Kubernetes 
 - Sampling strategies (head & tail) for cost optimization
 - Kyverno integration for Policy-as-Code observability governance
 - Integration with Jaeger (tracing), Prometheus (metrics) and Grafana (dashboards)
+
+---
+
+### Episode #6: Istio - Service Mesh in Ambient Mode
+
+**Description:**
+Exploring Istio in ambient mode on a local kind cluster, one carousel slide per lab step, in a market finance setting (a `trading` namespace and a `legacy-pricing` service you don't own). Covers mesh-wide mTLS, identity-based authorization, the waypoint proxy and the policy it breaks on purpose, traffic management with the Gateway API, and L7 metrics for services you cannot instrument.
+
+**Key Topics:**
+- Ambient mode: no sidecars, one ztunnel per node, a waypoint only where L7 is needed
+- Mesh-wide mTLS with a STRICT `PeerAuthentication`
+- Identity-based L4 authorization enforced by the destination ztunnel
+- How a waypoint moves the enforcement point, and how to move the policy with it
+- Weighted traffic split and request timeout with a Gateway API `HTTPRoute`
+- L7 metrics in Prometheus for code you don't own, from metrics to SLIs
 
 ---
 
